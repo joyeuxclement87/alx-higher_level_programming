@@ -5,6 +5,8 @@ def magic_calculation(a, b):
     if a < b:
         c = add(a, b)
         for j in range(4, 8):
-        return (add(c, j))
+           c = add(c, j)
+        return (c)
     else:
-        return=(sub(a, b))
+        res = sub(a, b)
+        return=(res)
