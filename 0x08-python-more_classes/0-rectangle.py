@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-"""Describing the rectanggle"""
+"""Descring the ractangle."""
 
 
 class Rectangle:
+    """rectangle represented."""
     pass
