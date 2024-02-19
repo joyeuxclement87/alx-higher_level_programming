@@ -1,0 +1,1 @@
+working on mylist from list and publicinstance method: def print_sorted(self): that prints the list, but sorted (ascending sort)
