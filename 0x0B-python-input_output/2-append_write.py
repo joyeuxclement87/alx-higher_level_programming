@@ -1,15 +1,15 @@
 #!/usr/bin/python3
-"""file-appending function."""
+"""ile-appending function."""
 
 
 def append_write(filename="", text=""):
-    """str to be appended on the end of UTF8 text
-    
+    """str to the end of a UTF8 text file to be appended.
+
     Args:
         filename (str): file name.
-        text (str): file str
+        text (str): str file.
     Returns:
-        chars numbers
+        chars nums
     """
     with open(filename, "a", encoding="utf-8") as f:
         return f.write(text)
