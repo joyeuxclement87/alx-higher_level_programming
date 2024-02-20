@@ -1,9 +1,9 @@
-#!/usr/bin/python3
-"""file-appending function."""
+le-appending function."""
 
 
 def append_write(filename="", text=""):
-    """str to be appended on the end of UTF8 text 
+    """str to be appended on the end of UTF8 text
+    
     Args:
         filename (str): file name.
         text (str): file str
