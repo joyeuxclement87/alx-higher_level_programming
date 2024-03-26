@@ -1,2 +1,2 @@
---working on scrit to displays all database
+-- Lists all databases of my MySQL server.
 SHOW DATABASES;
