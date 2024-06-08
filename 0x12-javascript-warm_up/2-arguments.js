@@ -8,3 +8,4 @@ function printArgMsg(...args) {
         console.log("Arguments found");
     }
 }
+printArgMsg(...args);
