@@ -1,4 +1,7 @@
 #!/usr/bin/node
-module.exports =
-  class Rectangle {
-};
+newFunction();
+function newFunction () {
+  module.exports =
+    class Rectangle {
+  };
+}
