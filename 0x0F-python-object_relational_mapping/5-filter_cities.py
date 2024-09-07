@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
-working on code to 
-Takes in the name of a state as an argument and
+working on code to Takes in the name of a state as an argument and
 lists all cities of that state, using
 the database hbtn_0e_4_usa
 """
